@@ -1,2 +1,2 @@
 def f():
-    print("Toto")
+    print("Tutu")
