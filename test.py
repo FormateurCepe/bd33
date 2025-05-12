@@ -1,2 +1,2 @@
 def f():
-    print("Tutu")
+    print("Titi")
